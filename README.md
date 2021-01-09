@@ -12,6 +12,3 @@
 - 💬 Ask me about **Python, JavaScript / TypeScript**
 
 - 📫 How to reach me [Email](mailto:nvmeurs+github@outlook.com) / [LinkedIn](https://linkedin.com/in/nicky-van-meurs-b62a5279)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvanmeurs&layout=compact&hide=html" alt="nvanmeurs" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvanmeurs&show_icons=true" alt="nvanmeurs" /></p>
